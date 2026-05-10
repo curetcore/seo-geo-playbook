@@ -1,0 +1,17 @@
+# Claude Code local session files
+.claude/sessions/
+.claude/SESSION.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# Node (si alguien clona y experimenta)
+node_modules/
+*.log

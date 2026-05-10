@@ -1,0 +1,85 @@
+{
+  "skill_name": "seo-on-page",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Mi título de página es 'Inicio' literal, qué patrón debería usar",
+      "should_trigger": true
+    },
+    {
+      "id": 2,
+      "prompt": "Necesito generateMetadata para una ruta dinámica /productos/[slug] con datos de Prisma",
+      "should_trigger": true
+    },
+    {
+      "id": 3,
+      "prompt": "Mi imagen de OpenGraph se ve genérica y cortada cuando comparto en Twitter",
+      "should_trigger": true
+    },
+    {
+      "id": 4,
+      "prompt": "Cómo hago OG images dinámicos por blog post con next/og",
+      "should_trigger": true
+    },
+    {
+      "id": 5,
+      "prompt": "Tengo H1 dos veces en la misma página y Lighthouse me lo marca, cómo arreglo",
+      "should_trigger": true
+    },
+    {
+      "id": 6,
+      "prompt": "Me dieron una URL feo tipo /Productos?cat=Zapatos y quiero limpiarla",
+      "should_trigger": true
+    },
+    {
+      "id": 7,
+      "prompt": "anchor text de 'click acá' está en todas mis páginas, cuál es la regla",
+      "should_trigger": true
+    },
+    {
+      "id": 8,
+      "prompt": "Me dijeron que tengo que setear canonical URL en multi-idioma con hreflang",
+      "should_trigger": true
+    },
+    {
+      "id": 9,
+      "prompt": "INP de 600ms cuando filtro la lista de productos",
+      "should_trigger": false
+    },
+    {
+      "id": 10,
+      "prompt": "Necesito implementar llms.txt para que ChatGPT cite mi sitio",
+      "should_trigger": false
+    },
+    {
+      "id": 11,
+      "prompt": "Cómo configuro Google Business Profile para mi restaurante",
+      "should_trigger": false
+    },
+    {
+      "id": 12,
+      "prompt": "Mi base de datos de Supabase tarda mucho en queries grandes",
+      "should_trigger": false
+    },
+    {
+      "id": 13,
+      "prompt": "Quiero agregar dark mode a mi app en Tailwind v4",
+      "should_trigger": false
+    },
+    {
+      "id": 14,
+      "prompt": "Necesito Stripe webhook para manejar pagos recurrentes",
+      "should_trigger": false
+    },
+    {
+      "id": 15,
+      "prompt": "Cómo distribuyo fechas por slug en programmatic SEO",
+      "should_trigger": false
+    },
+    {
+      "id": 16,
+      "prompt": "Empezar un blog de 20 artículos para SEO desde cero",
+      "should_trigger": false
+    }
+  ]
+}

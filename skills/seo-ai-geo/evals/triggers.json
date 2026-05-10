@@ -1,0 +1,85 @@
+{
+  "skill_name": "seo-ai-geo",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "ChatGPT no menciona mi SaaS cuando le preguntan por herramientas de link in bio gratis",
+      "should_trigger": true
+    },
+    {
+      "id": 2,
+      "prompt": "Cómo creo un llms.txt para mi proyecto en Next.js",
+      "should_trigger": true
+    },
+    {
+      "id": 3,
+      "prompt": "Necesito permitir GPTBot y ClaudeBot pero bloquear CCBot, cómo edito robots.ts",
+      "should_trigger": true
+    },
+    {
+      "id": 4,
+      "prompt": "Mi competidor aparece en Google AI Overviews y yo no, qué falta",
+      "should_trigger": true
+    },
+    {
+      "id": 5,
+      "prompt": "Estoy escribiendo un blog post y quiero que lo cite Perplexity, qué patrón uso",
+      "should_trigger": true
+    },
+    {
+      "id": 6,
+      "prompt": "Hay que implementar AEO en mi sitio, por dónde arranco",
+      "should_trigger": true
+    },
+    {
+      "id": 7,
+      "prompt": "Cómo verifico si Claude o ChatGPT ya están citando mi sitio",
+      "should_trigger": true
+    },
+    {
+      "id": 8,
+      "prompt": "Necesito FAQ schema en una landing y que aparezca en featured snippets",
+      "should_trigger": true
+    },
+    {
+      "id": 9,
+      "prompt": "Mi LCP es 4 segundos en mobile, cómo bajo eso",
+      "should_trigger": false
+    },
+    {
+      "id": 10,
+      "prompt": "Setup de Stripe Checkout para suscripciones",
+      "should_trigger": false
+    },
+    {
+      "id": 11,
+      "prompt": "Cómo agrego dark mode con Tailwind v4",
+      "should_trigger": false
+    },
+    {
+      "id": 12,
+      "prompt": "Mi React component tiene un bug al rendear listas",
+      "should_trigger": false
+    },
+    {
+      "id": 13,
+      "prompt": "Setup de PostgreSQL con Prisma en Next.js",
+      "should_trigger": false
+    },
+    {
+      "id": 14,
+      "prompt": "Necesito reviews de Google Business Profile",
+      "should_trigger": false
+    },
+    {
+      "id": 15,
+      "prompt": "Mi imagen de OG está cortada en Twitter",
+      "should_trigger": false
+    },
+    {
+      "id": 16,
+      "prompt": "Cómo distribuyo fechas por slug para 500 páginas programáticas",
+      "should_trigger": false
+    }
+  ]
+}

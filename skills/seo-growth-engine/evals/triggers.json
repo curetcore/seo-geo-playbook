@@ -1,0 +1,85 @@
+{
+  "skill_name": "seo-growth-engine",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Tengo un SaaS de link in bio y quiero generar tráfico orgánico desde cero, sin ads",
+      "should_trigger": true
+    },
+    {
+      "id": 2,
+      "prompt": "Cómo implemento programmatic SEO con páginas /para/[nicho] en Next.js",
+      "should_trigger": true
+    },
+    {
+      "id": 3,
+      "prompt": "Quiero hacer página /vs/[competidor] honesta para comparativas",
+      "should_trigger": true
+    },
+    {
+      "id": 4,
+      "prompt": "Necesito 4 herramientas gratis client-side para atraer tráfico de búsqueda",
+      "should_trigger": true
+    },
+    {
+      "id": 5,
+      "prompt": "Plan para escribir 20 blog posts iniciales con MDX y internal linking",
+      "should_trigger": true
+    },
+    {
+      "id": 6,
+      "prompt": "Quiero submitear mi SaaS a Product Hunt, G2, Capterra — cuál es la estrategia",
+      "should_trigger": true
+    },
+    {
+      "id": 7,
+      "prompt": "Mi sitio tiene la home y nada más, cómo escalo a 60+ páginas indexables",
+      "should_trigger": true
+    },
+    {
+      "id": 8,
+      "prompt": "Outreach a directorios para conseguir backlinks, ritmo y prioridad",
+      "should_trigger": true
+    },
+    {
+      "id": 9,
+      "prompt": "Cómo arreglo INP de 600ms",
+      "should_trigger": false
+    },
+    {
+      "id": 10,
+      "prompt": "Setup de Google Business Profile multi-location",
+      "should_trigger": false
+    },
+    {
+      "id": 11,
+      "prompt": "Implementar llms.txt para ChatGPT",
+      "should_trigger": false
+    },
+    {
+      "id": 12,
+      "prompt": "robots.ts con AI bots permitidos",
+      "should_trigger": false
+    },
+    {
+      "id": 13,
+      "prompt": "Cómo hacer dark mode en Tailwind v4",
+      "should_trigger": false
+    },
+    {
+      "id": 14,
+      "prompt": "Setup de Stripe webhook",
+      "should_trigger": false
+    },
+    {
+      "id": 15,
+      "prompt": "Author bio con Person schema",
+      "should_trigger": false
+    },
+    {
+      "id": 16,
+      "prompt": "Anti-batch signal para 500+ páginas con misma fecha",
+      "should_trigger": false
+    }
+  ]
+}

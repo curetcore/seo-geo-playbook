@@ -1,0 +1,85 @@
+{
+  "skill_name": "seo-technical",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "PageSpeed me dice que mi LCP es de 4.8 segundos en mobile, cómo lo bajo a 2.5",
+      "should_trigger": true
+    },
+    {
+      "id": 2,
+      "prompt": "Tengo un blog en Next.js y la página individual de cada post tarda 3 segundos en cargar, qué reviso",
+      "should_trigger": true
+    },
+    {
+      "id": 3,
+      "prompt": "GSC dice que mi sitio tiene problemas de Core Web Vitals en 47 URLs, por dónde arranco",
+      "should_trigger": true
+    },
+    {
+      "id": 4,
+      "prompt": "Mi cliente quiere HSTS y HTTPS forzado en su Next.js 16, hacé el middleware con security headers",
+      "should_trigger": true
+    },
+    {
+      "id": 5,
+      "prompt": "estoy bouncing los inputs porque el INP me da 580ms en el filtro de búsqueda",
+      "should_trigger": true
+    },
+    {
+      "id": 6,
+      "prompt": "Necesito robots.ts y sitemap.ts para un proyecto nuevo Next.js, con páginas de producto desde Prisma",
+      "should_trigger": true
+    },
+    {
+      "id": 7,
+      "prompt": "Lighthouse me da CLS de 0.34 y no sé qué se está moviendo, puedes auditar?",
+      "should_trigger": true
+    },
+    {
+      "id": 8,
+      "prompt": "Setup de SEO técnico desde cero para un Next.js fresh, dame el orden de lo que hay que hacer",
+      "should_trigger": true
+    },
+    {
+      "id": 9,
+      "prompt": "Cómo configuro Tailwind v4 desde cero en mi proyecto Next.js",
+      "should_trigger": false
+    },
+    {
+      "id": 10,
+      "prompt": "Mi base de datos en Supabase está lenta cuando hago joins de 5 tablas",
+      "should_trigger": false
+    },
+    {
+      "id": 11,
+      "prompt": "Necesito autenticación con Google OAuth en mi app",
+      "should_trigger": false
+    },
+    {
+      "id": 12,
+      "prompt": "Cómo escribo un blog post sobre productividad en remoto",
+      "should_trigger": false
+    },
+    {
+      "id": 13,
+      "prompt": "Mi imagen de OpenGraph se ve cortada en LinkedIn",
+      "should_trigger": false
+    },
+    {
+      "id": 14,
+      "prompt": "Necesito agregar reviews schema a mi página de producto",
+      "should_trigger": false
+    },
+    {
+      "id": 15,
+      "prompt": "Mi sitio no aparece en ChatGPT cuando me preguntan por herramientas de email marketing",
+      "should_trigger": false
+    },
+    {
+      "id": 16,
+      "prompt": "Quiero crear una landing page por nicho para músicos en mi link in bio app",
+      "should_trigger": false
+    }
+  ]
+}

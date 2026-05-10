@@ -1,0 +1,85 @@
+{
+  "skill_name": "seo-analytics",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Cómo verifico Google Search Console en un dominio que está en Cloudflare",
+      "should_trigger": true
+    },
+    {
+      "id": 2,
+      "prompt": "Necesito implementar web-vitals con PostHog para tracking RUM real",
+      "should_trigger": true
+    },
+    {
+      "id": 3,
+      "prompt": "Quiero saber cuánto tráfico viene de ChatGPT versus búsqueda tradicional",
+      "should_trigger": true
+    },
+    {
+      "id": 4,
+      "prompt": "Mi GSC Performance no muestra clics aunque el sitio tiene 30k visitas mensuales",
+      "should_trigger": true
+    },
+    {
+      "id": 5,
+      "prompt": "Cuál es la cadencia mensual de auditoría SEO que debería seguir",
+      "should_trigger": true
+    },
+    {
+      "id": 6,
+      "prompt": "Cómo trackeo position de mis 50 keywords sin pagar Ahrefs",
+      "should_trigger": true
+    },
+    {
+      "id": 7,
+      "prompt": "Mi competidor tiene mejores keywords, cómo hago competitor analysis",
+      "should_trigger": true
+    },
+    {
+      "id": 8,
+      "prompt": "Cómo armo dashboard PostHog con LCP, INP y CLS distribuidos por URL",
+      "should_trigger": true
+    },
+    {
+      "id": 9,
+      "prompt": "Mi LCP es de 4 segundos en mobile",
+      "should_trigger": false
+    },
+    {
+      "id": 10,
+      "prompt": "robots.ts para Next.js App Router",
+      "should_trigger": false
+    },
+    {
+      "id": 11,
+      "prompt": "Cómo setear llms.txt para que ChatGPT me cite",
+      "should_trigger": false
+    },
+    {
+      "id": 12,
+      "prompt": "Necesito generateMetadata dinámico para productos",
+      "should_trigger": false
+    },
+    {
+      "id": 13,
+      "prompt": "Multi-location con LocalBusiness schema",
+      "should_trigger": false
+    },
+    {
+      "id": 14,
+      "prompt": "Setup de Stripe checkout con trial",
+      "should_trigger": false
+    },
+    {
+      "id": 15,
+      "prompt": "Cómo armo content clusters para mi blog",
+      "should_trigger": false
+    },
+    {
+      "id": 16,
+      "prompt": "Tengo 50+ páginas programáticas y todas con la misma fecha",
+      "should_trigger": false
+    }
+  ]
+}
