@@ -1,0 +1,85 @@
+{
+  "skill_name": "seo-content-strategy",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Tengo un SaaS y no sé qué escribir en el blog ni en qué orden",
+      "should_trigger": true
+    },
+    {
+      "id": 2,
+      "prompt": "Cómo armo un content cluster con pillar y spokes para el tema de analytics",
+      "should_trigger": true
+    },
+    {
+      "id": 3,
+      "prompt": "Necesito escribir un content brief antes de empezar el artículo",
+      "should_trigger": true
+    },
+    {
+      "id": 4,
+      "prompt": "Mi blog tiene 30 posts dispersos, cómo los agrupo en clusters",
+      "should_trigger": true
+    },
+    {
+      "id": 5,
+      "prompt": "Cómo aplico E-E-A-T a un blog técnico de Next.js",
+      "should_trigger": true
+    },
+    {
+      "id": 6,
+      "prompt": "Cuántas keywords debo targetear por post y cómo las priorizo",
+      "should_trigger": true
+    },
+    {
+      "id": 7,
+      "prompt": "Tengo un author bio genérico, qué schema agrego",
+      "should_trigger": true
+    },
+    {
+      "id": 8,
+      "prompt": "Cada cuánto tengo que actualizar mis posts evergreen",
+      "should_trigger": true
+    },
+    {
+      "id": 9,
+      "prompt": "Cómo bajo mi INP de 500ms a 200ms",
+      "should_trigger": false
+    },
+    {
+      "id": 10,
+      "prompt": "robots.ts para Next.js App Router con AI bots",
+      "should_trigger": false
+    },
+    {
+      "id": 11,
+      "prompt": "Setup de Stripe trial de 14 días",
+      "should_trigger": false
+    },
+    {
+      "id": 12,
+      "prompt": "Cómo hago multi-location en Google Business Profile",
+      "should_trigger": false
+    },
+    {
+      "id": 13,
+      "prompt": "OG images dinámicas con next/og",
+      "should_trigger": false
+    },
+    {
+      "id": 14,
+      "prompt": "Generador de QR client-side en React",
+      "should_trigger": false
+    },
+    {
+      "id": 15,
+      "prompt": "Cómo pongo dark mode en Tailwind v4",
+      "should_trigger": false
+    },
+    {
+      "id": 16,
+      "prompt": "Mi sitemap.xml no se está generando correctamente",
+      "should_trigger": false
+    }
+  ]
+}

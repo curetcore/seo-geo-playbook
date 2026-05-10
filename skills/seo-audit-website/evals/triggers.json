@@ -1,0 +1,85 @@
+{
+  "skill_name": "seo-audit-website",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Necesito audit completo de mi sitio con todas las reglas de SEO técnico, content, security",
+      "should_trigger": true
+    },
+    {
+      "id": 2,
+      "prompt": "Cómo corro squirrelscan en mi proyecto local",
+      "should_trigger": true
+    },
+    {
+      "id": 3,
+      "prompt": "Quiero un health score 0-100 de mi sitio antes de lanzar",
+      "should_trigger": true
+    },
+    {
+      "id": 4,
+      "prompt": "Cuáles son las 140 reglas que squirrelscan chequea",
+      "should_trigger": true
+    },
+    {
+      "id": 5,
+      "prompt": "Audit automatizado tipo Lighthouse pero para SEO y schema también",
+      "should_trigger": true
+    },
+    {
+      "id": 6,
+      "prompt": "Cómo exporto el reporte de squirrelscan en formato LLM para que Claude lo lea",
+      "should_trigger": true
+    },
+    {
+      "id": 7,
+      "prompt": "Tengo un sitio en producción y quiero detectar broken links a escala",
+      "should_trigger": true
+    },
+    {
+      "id": 8,
+      "prompt": "Audit de schema.org markup en todo el sitio",
+      "should_trigger": true
+    },
+    {
+      "id": 9,
+      "prompt": "Estrategia de keyword research por intent",
+      "should_trigger": false
+    },
+    {
+      "id": 10,
+      "prompt": "llms.txt para ChatGPT",
+      "should_trigger": false
+    },
+    {
+      "id": 11,
+      "prompt": "Mi LCP es de 4 segundos",
+      "should_trigger": false
+    },
+    {
+      "id": 12,
+      "prompt": "Setup de Google Business Profile",
+      "should_trigger": false
+    },
+    {
+      "id": 13,
+      "prompt": "Content clusters con pillar pages",
+      "should_trigger": false
+    },
+    {
+      "id": 14,
+      "prompt": "Generador de bio para Instagram",
+      "should_trigger": false
+    },
+    {
+      "id": 15,
+      "prompt": "Stripe webhook recurrente",
+      "should_trigger": false
+    },
+    {
+      "id": 16,
+      "prompt": "Multi-location LocalBusiness schema",
+      "should_trigger": false
+    }
+  ]
+}

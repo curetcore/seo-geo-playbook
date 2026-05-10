@@ -1,0 +1,85 @@
+{
+  "skill_name": "seo-nextjs-implementation",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Necesito código TypeScript para JSON-LD de Organization en mi home",
+      "should_trigger": true
+    },
+    {
+      "id": 2,
+      "prompt": "Dame el seo.ts completo para Next.js 16 con todos los generators",
+      "should_trigger": true
+    },
+    {
+      "id": 3,
+      "prompt": "Cómo implemento FAQ schema con TypeScript estricto y schema-dts",
+      "should_trigger": true
+    },
+    {
+      "id": 4,
+      "prompt": "generateMetadata para layout root con title template",
+      "should_trigger": true
+    },
+    {
+      "id": 5,
+      "prompt": "Componente JsonLd para inyectar structured data en cada página",
+      "should_trigger": true
+    },
+    {
+      "id": 6,
+      "prompt": "Cómo agrego SoftwareApplication schema a la home de mi SaaS",
+      "should_trigger": true
+    },
+    {
+      "id": 7,
+      "prompt": "Helper de canonical URL que strip query params y hash",
+      "should_trigger": true
+    },
+    {
+      "id": 8,
+      "prompt": "BreadcrumbList JSON-LD con TypeScript tipado",
+      "should_trigger": true
+    },
+    {
+      "id": 9,
+      "prompt": "Estrategia de blog con content clusters",
+      "should_trigger": false
+    },
+    {
+      "id": 10,
+      "prompt": "Mi LCP es 4 segundos en mobile",
+      "should_trigger": false
+    },
+    {
+      "id": 11,
+      "prompt": "Setup de Google Business Profile",
+      "should_trigger": false
+    },
+    {
+      "id": 12,
+      "prompt": "llms.txt para que ChatGPT me cite",
+      "should_trigger": false
+    },
+    {
+      "id": 13,
+      "prompt": "Cómo distribuyo fechas por slug",
+      "should_trigger": false
+    },
+    {
+      "id": 14,
+      "prompt": "Outreach a Product Hunt y G2",
+      "should_trigger": false
+    },
+    {
+      "id": 15,
+      "prompt": "Setup de Stripe trial de 14 días",
+      "should_trigger": false
+    },
+    {
+      "id": 16,
+      "prompt": "Multi-location schema con sucursales",
+      "should_trigger": false
+    }
+  ]
+}

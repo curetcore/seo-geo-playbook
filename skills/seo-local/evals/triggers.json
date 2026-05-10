@@ -1,0 +1,85 @@
+{
+  "skill_name": "seo-local",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Mi restaurante no aparece en el mapa de Google cuando alguien busca 'comida dominicana cerca de mí'",
+      "should_trigger": true
+    },
+    {
+      "id": 2,
+      "prompt": "Necesito setear LocalBusiness schema para mi clínica con horario y dirección",
+      "should_trigger": true
+    },
+    {
+      "id": 3,
+      "prompt": "Tengo 5 sucursales y quiero una página por location optimizada SEO",
+      "should_trigger": true
+    },
+    {
+      "id": 4,
+      "prompt": "Cómo armo NAP consistency en GBP, Apple Maps, Yelp y mi sitio",
+      "should_trigger": true
+    },
+    {
+      "id": 5,
+      "prompt": "Mi cliente abrió Google Business Profile y le faltan los 10 fotos mínimas",
+      "should_trigger": true
+    },
+    {
+      "id": 6,
+      "prompt": "Tengo un servicio de plomería que cubre 8 ciudades, cómo armo landing pages locales",
+      "should_trigger": true
+    },
+    {
+      "id": 7,
+      "prompt": "Schema.org reviews con AggregateRating para un dentista, qué es ético",
+      "should_trigger": true
+    },
+    {
+      "id": 8,
+      "prompt": "Cómo respondo reviews negativas en Google Business Profile sin sonar defensivo",
+      "should_trigger": true
+    },
+    {
+      "id": 9,
+      "prompt": "Mi SaaS no aparece en ChatGPT cuando preguntan por herramientas de productividad",
+      "should_trigger": false
+    },
+    {
+      "id": 10,
+      "prompt": "Cómo hago llms.txt para mi sitio",
+      "should_trigger": false
+    },
+    {
+      "id": 11,
+      "prompt": "Necesito reducir el bundle size de mi Next.js app",
+      "should_trigger": false
+    },
+    {
+      "id": 12,
+      "prompt": "Setup de Stripe webhook para pagos recurrentes",
+      "should_trigger": false
+    },
+    {
+      "id": 13,
+      "prompt": "Cómo mejoro mi LCP de 3.5s a 2.5s",
+      "should_trigger": false
+    },
+    {
+      "id": 14,
+      "prompt": "Generador de bio para Instagram client-side",
+      "should_trigger": false
+    },
+    {
+      "id": 15,
+      "prompt": "Cómo pongo dark mode con Tailwind v4",
+      "should_trigger": false
+    },
+    {
+      "id": 16,
+      "prompt": "Mi blog necesita una estrategia de content cluster",
+      "should_trigger": false
+    }
+  ]
+}

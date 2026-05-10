@@ -1,0 +1,232 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+
+User-Agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+
+User-Agent: GoogleOther
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+
+User-Agent: Bingbot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+
+User-Agent: YandexBot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+
+User-Agent: Applebot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+
+User-Agent: GPTBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: OAI-SearchBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: ChatGPT-User
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: ClaudeBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: Claude-SearchBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: Anthropic-AI
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: cohere-ai
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: Google-Extended
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: Google-CloudVertexBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: Applebot-Extended
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: Meta-ExternalAgent
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: Meta-ExternalFetcher
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: Amazonbot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: Bytespider
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+User-Agent: CCBot
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /god/
+Disallow: /login
+Disallow: /onboarding
+Disallow: /_next/
+Disallow: */opengraph-image
+
+Host: https://linkship.cc
+Sitemap: https://linkship.cc/sitemap.xml
