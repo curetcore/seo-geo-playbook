@@ -14,7 +14,7 @@ Gracias por querer contribuir. Acá la guía mínima para no perder tiempo.
 
 ## Estructura del repo
 
-```
+```text
 seo-geo-playbook/
 ├── README.md
 ├── CHANGELOG.md            # Documentar cada versión acá
@@ -43,7 +43,7 @@ Revisá la lista en `agents/seo-marketing.md`. Si tu skill se solapa con uno exi
 
 ### 2. Estructura mínima
 
-```
+```text
 skills/seo-tu-skill/
 ├── SKILL.md                # Obligatorio
 ├── references/             # Si SKILL.md > 300 líneas

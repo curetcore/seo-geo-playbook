@@ -11,13 +11,13 @@
 
 | Tipo | Patrón | Ejemplo |
 |------|--------|---------|
-| Home | `Brand - Tagline` | `TuApp - BI para ecommerce LATAM` |
+| Home | `Brand - Tagline` | `MiApp - BI para ecommerce LATAM` |
 | Producto | `Producto - Categoría \| Brand` | `Nike Air Max - Zapatillas \| TiendaX` |
-| Blog | `Titulo del Post \| Brand` | `Guia de SEO 2026 \| TuApp` |
+| Blog | `Titulo del Post \| Brand` | `Guia de SEO 2026 \| MiApp` |
 | Categoría | `Categoría - Descripción \| Brand` | `Zapatillas deportivas \| TiendaX` |
-| Landing | `Beneficio Principal - Brand` | `Aumenta ventas 3x - TuApp` |
-| Pricing | `Precios y Planes \| Brand` | `Precios y Planes \| TuApp` |
-| SaaS Feature | `Feature - Que Hace \| Brand` | `Analytics - Métricas en tiempo real \| TuApp` |
+| Landing | `Beneficio Principal - Brand` | `Aumenta ventas 3x - MiApp` |
+| Pricing | `Precios y Planes \| Brand` | `Precios y Planes \| MiApp` |
+| SaaS Feature | `Feature - Que Hace \| Brand` | `Analytics - Métricas en tiempo real \| MiApp` |
 
 ### Reglas
 
@@ -269,7 +269,7 @@ import Image from "next/image";
 | Producto | Nombre + variante + contexto | `Nike Air Max 90 blanco, vista lateral` |
 | Blog | Descripción del contenido | `Grafico de Core Web Vitals mostrando LCP, INP y CLS` |
 | Decorativa | Vacio (no omitir) | `alt=""` |
-| Logo | Nombre de la marca | `Logo de TuApp` |
+| Logo | Nombre de la marca | `Logo de MiApp` |
 | Persona | Nombre + rol | `Maria Garcia, CEO de Curet LLC` |
 
 ---
@@ -399,7 +399,7 @@ export function RelatedLinks({ links }: { links: RelatedLink[] }) {
 |-------|------|
 | `guia completa de SEO técnico` | `click aquí` |
 | `optimizar Core Web Vitals` | `leer mas` |
-| `planes y precios de TuApp` | `ver precios` |
+| `planes y precios de MiApp` | `ver precios` |
 
 ---
 

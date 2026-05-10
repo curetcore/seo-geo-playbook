@@ -25,7 +25,7 @@ Para **estrategia** de SEO técnico (no código), usar `seo-technical`. Para met
 
 ```
 Tu App — Descripción...
-tuapp.com
+miapp.com
 ⭐⭐⭐⭐⭐ 4.9 (127 reseñas) · desde $0
 Descripción de tu producto...
 ```
