@@ -23,9 +23,70 @@ No hay magia. Hay un sistema replicable que aplico desde el día 1 de cada proye
 
 ---
 
-## Cómo usar este playbook
+## Instalación rápida con un LLM (Claude, ChatGPT, Cursor)
 
-### Si tu objetivo es entender la estrategia (no necesitas programar)
+La forma más simple de aplicar este playbook a tu proyecto es **dejar que un LLM lo haga por vos**, con tu supervisión.
+
+### Pasos
+
+**1.** Abrí tu LLM favorito en el contexto de tu proyecto:
+- **Claude Code** (terminal): abrí Claude Code en la carpeta de tu proyecto
+- **Cursor**: abrí tu proyecto en Cursor
+- **ChatGPT** (web): activá web browsing si no está activo
+
+**2.** Copiá y pegá este prompt (reemplazá los `[corchetes]` con tu info):
+
+```
+Tengo un proyecto en [stack: Next.js / WordPress / Astro / Shopify / etc.]
+sobre [nicho: SaaS de productividad / e-commerce de ropa / consultoría legal / etc.].
+Mi sitio es [tudominio.com].
+
+Quiero implementar el SEO + GEO Playbook completo. Los archivos están en:
+https://github.com/curetcore/seo-geo-playbook
+
+Hacelo así, conmigo:
+
+1. Leé los archivos del playbook (si tenés acceso a terminal:
+   `git clone https://github.com/curetcore/seo-geo-playbook playbook`
+   y abrí esa carpeta).
+
+2. Auditá honestamente mi proyecto actual:
+   - Qué pilares ya tengo implementados
+   - Cuáles me faltan
+   - Cuáles tengo a medias
+   Mostrame el resultado en una tabla.
+
+3. Empezá por el orden recomendado en _index.md
+   (technical → on-page → JSON-LD → ai-seo → content-strategy → ...).
+
+4. Para cada pilar:
+   - Mostrame los cambios concretos que harías en mis archivos
+   - Esperá mi aprobación antes de modificar nada
+   - Adaptá los ejemplos genéricos (TuApp, Brand) a mi marca real
+   - Si hay decisiones que dependen de mi nicho, preguntame antes de asumir
+
+5. Pausá entre cada pilar para que pueda revisar y validar.
+
+Si el playbook recomienda una herramienta que ya tengo o un patrón
+que ya implementé, marcalo como "ya está" y seguí al siguiente.
+
+Empezá ahora con el audit. Si necesitás más info de mi proyecto,
+preguntame antes de asumir.
+```
+
+**3.** Dejá que el LLM haga el audit primero. Vas a recibir una tabla de qué tenés y qué te falta. Aprobás los cambios uno por uno.
+
+**4.** Volvé al LLM cada vez que quieras avanzar al siguiente pilar.
+
+> **Tip**: si vas con Claude Code, tenés el bonus de que puede ejecutar comandos (git, npm, lighthouse, etc.) y verificar resultados en tiempo real. Si vas con ChatGPT/Cursor, los cambios los hacés manualmente con su guía.
+
+---
+
+## Cómo usarlo manualmente (sin LLM)
+
+Si preferís leer y aplicar a mano:
+
+### Si tu objetivo es entender la estrategia (no necesitás programar)
 
 Arrancá por estos archivos en este orden:
 
